@@ -30,7 +30,7 @@ function Navbar() {
 
 
                   {/* hover dropdown menu */}
-                <div className="w-52 py-2 opacity-0 shadow-lg group-hover:opacity-100 transition-all duration-300 bg-white text-zinc-800  absolute top-[4.5rem] z-50">
+                <div className="w-52 py-2 invisible group-hover:visible opacity-0 shadow-lg group-hover:opacity-100 transition-all duration-300 bg-white text-zinc-800  absolute top-[4.5rem] z-50">
                     <h4 className="w-full hover:text-primary01  hover:bg-gray-100 transition-all duration-300 pl-8 py-2">Shop</h4>
                     <h4 className="w-full hover:text-primary01  hover:bg-gray-100 transition-all duration-300 pl-8 py-2">Shop Details</h4>
                     <h4 className="w-full hover:text-primary01  hover:bg-gray-100 transition-all duration-300 pl-8 py-2">Shop Category</h4>
@@ -45,7 +45,7 @@ function Navbar() {
                   Pages <IoIosArrowDown /> <span className="absolute text-white font-bold -translate-x-1/2 left-1/2  group-hover:opacity-100 opacity-0  ransition-all duration-300 -bottom-1.5 text-lg">.</span>
 
                   {/* hover dropdown menu */}
-                <div className="w-52 py-2 opacity-0 shadow-lg group-hover:opacity-100 transition-all duration-300 bg-white text-zinc-800  absolute top-[4.5rem] z-50">
+                <div className="w-52 py-2 opacity-0 invisible group-hover:visible shadow-lg group-hover:opacity-100 transition-all duration-300 bg-white text-zinc-800  absolute top-[4.5rem] z-50">
                     <h4 className="w-full hover:text-primary01  hover:bg-gray-100 transition-all duration-300 pl-8 py-2">Shop</h4>
                     <h4 className="w-full hover:text-primary01  hover:bg-gray-100 transition-all duration-300 pl-8 py-2">Shop Details</h4>
                     <h4 className="w-full hover:text-primary01  hover:bg-gray-100 transition-all duration-300 pl-8 py-2">Shop Category</h4>
@@ -63,7 +63,7 @@ function Navbar() {
                   Blog <IoIosArrowDown /> <span className="absolute text-white font-bold -translate-x-1/2 left-1/2  group-hover:opacity-100 opacity-0  ransition-all duration-300 -bottom-1.5 text-lg">.</span>
 
                   {/* hover dropdown menu */}
-                <div className="w-52 py-2 opacity-0 shadow-lg group-hover:opacity-100 transition-all duration-300 bg-white text-zinc-800  absolute top-[4.5rem] z-50">
+                <div className="w-52 py-2 invisible group-hover:visible opacity-0 shadow-lg group-hover:opacity-100 transition-all duration-300 bg-white text-zinc-800  absolute top-[4.5rem] z-50">
                     <h4 className="w-full hover:text-primary01  hover:bg-gray-100 transition-all duration-300 pl-8 py-2">Shop</h4>
                     <h4 className="w-full hover:text-primary01  hover:bg-gray-100 transition-all duration-300 pl-8 py-2">Shop Details</h4>
                     <h4 className="w-full hover:text-primary01  hover:bg-gray-100 transition-all duration-300 pl-8 py-2">Shop Category</h4>
